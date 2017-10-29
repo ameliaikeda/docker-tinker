@@ -1,2 +1,0 @@
-FROM amelia/php:cli
-
